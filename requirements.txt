@@ -4,3 +4,4 @@ joblib
 rasterio
 streamlit
 streamlit-folium
+scikit-learn
