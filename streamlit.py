@@ -1,7 +1,4 @@
-import os
-import logging
 import folium
-import xarray as xr
 import numpy as np
 import joblib
 import rasterio
